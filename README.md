@@ -1,2 +1,2 @@
 # E-Commerce-App
-Responsive E-commerce app designed using HTML,CSS and Javascript 
+Responsive E-commerce website designed using HTML,CSS and Javascript 
